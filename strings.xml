@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GD Music Mixe</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_player">Reproductor</string>
+    <string name="nav_catalog">Catálogo</string>
+    <string name="nav_playlists">Listas</string>
+    <string name="nav_studio">Producciones</string>
+</resources>

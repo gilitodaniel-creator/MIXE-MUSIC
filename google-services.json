@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "46063845820",
+    "project_id": "gen-lang-client-0080556175",
+    "storage_bucket": "gen-lang-client-0080556175.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46063845820:android:9cfd6b391382deef0cabb9",
+        "android_client_info": {
+          "package_name": "com.aistudio.gdmusicmixe.wzpry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46063845820-mpbom6o10m8cq5qv68054oc1ai0ved3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.gdmusicmixe.wzpry",
+            "certificate_hash": "e2de459de493f9aad5bc8c58bda6c74a94ed414e"
+          }
+        },
+        {
+          "client_id": "46063845820-ao1adq14qtrcgmpndfhsi6p0gtmauji2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWOnZSO0Xf8TRbc9rmlKQAFGcRrMurmZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46063845820-ao1adq14qtrcgmpndfhsi6p0gtmauji2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
